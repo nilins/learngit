@@ -11,5 +11,13 @@ int main()
 
 int l = 0;
 	printf("l %d\n", l);	
+
+
+int m = 0;
+printf("m %d\n", m);
+
+int n = 0;
+printf("n %d\n", n);
+
 	return 0;
 }
